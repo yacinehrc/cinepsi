@@ -12,4 +12,4 @@ Notre monde virtuel est un cinéma en plein air s'appelant Cinepsi (contraction 
 
 ---
 ### CONCLUSION
-Ce projet nous a permis d'apprendre le monde de la VR et les bases pour utiliser https://www.framever.io ainsi que le fait d'utiliser sa créativité pour trouver un thème.
+Ce projet nous a permis d'apprendre le monde de la VR et les bases pour utiliser (https://learn.framevr.io/) ainsi que le fait d'utiliser sa créativité pour trouver un thème.
