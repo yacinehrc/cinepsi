@@ -1,6 +1,5 @@
-# cinepsi
-
-- Image -
+Cinepsi
+<img width="960" height="439" alt="pp" src="https://github.com/user-attachments/assets/4a7ac102-e334-4be4-9d93-9311256c1f3b" />
 
 ### DESCRIPTION
 Ce projet a comme pour objectif de nous faire découvrir le monde de la VR et de la création de monde virtuel. Nous avons donc décidé de créer un cinéma en plein air avec quelques objets créée en 3D (asset extérieurs). Le projet est une expérience WebXR (donc la VR directement disponible depuis un navigateur web) et il faut intégrer au moins une forme d'intéraction.
