@@ -1,4 +1,4 @@
-### Cinepsi
+### CIN'EPSI
 ---
 <img width="960" height="439" alt="pp" src="https://github.com/user-attachments/assets/4a7ac102-e334-4be4-9d93-9311256c1f3b" />
 
