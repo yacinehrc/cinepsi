@@ -1,6 +1,7 @@
 ### CIN'EPSI
 ---
-<img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/32379eed-bbc8-4e4a-a9d2-cd8e01ed0ef8" />
+<img width="960" height="439" alt="A70E3DFE-9A9F-4C9B-8542-3A5F624E9559" src="https://github.com/user-attachments/assets/fd29385e-2f19-454f-a19c-f2458ebeac97" />
+
 
 ---
 ### DESCRIPTION
